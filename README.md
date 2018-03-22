@@ -1,5 +1,5 @@
 # dog_breed_identify
-This is the Kaggle competition. My final loss is 0.08970
+This is the Kaggle competition: https://www.kaggle.com/c/dog-breed-identification/leaderboard
 ## Network
 I tried other network such Resnet, DenseNet, but due to my gpu is not so powerful, these network didn't come up a good result. 
 
